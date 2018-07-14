@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 13, 2018
 
 ### Student Name:  
-(First and Last Name)
+Joseph Rittenhouse
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment taught me how to change a page's content based on external events.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmr16h.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The DOM is the Document Object Model, which deals with the document, the HTML elements themselves, e.g. document and all traversal you would do in it, events, etc.
+2. The BOM is the Browser Object Model, which deals with browser components aside from the document, like history, location, navigator and screen.
+3. Adding and removing document nodes is common when using Javascript to change content.
